@@ -1,0 +1,59 @@
+@font-face {
+	font-family: 'icomoon';
+	src:url('../fonts/iconlatin/icomoon.eot?ks1for');
+	src:url('../fonts/iconlatin/icomoon.eot?ks1for#iefix') format('embedded-opentype'),
+		url('../fonts/iconlatin/icomoon.ttf?ks1for') format('truetype'),
+		url('../fonts/iconlatin/icomoon.woff?ks1for') format('woff'),
+		url('../fonts/iconlatin/icomoon.svg?ks1for#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-deathv2:before {
+	content: "\e900";
+}
+.icon-divorcev2:before {
+	content: "\e901";
+}
+.icon-ringv2s:before {
+	content: "\e902";
+}
+.icon-storv2k:before {
+	content: "\e903";
+}
+.icon-langwomoon:before {
+	content: "\e601";
+}
+.icon-lang:before {
+	content: "\e600";
+}
+.icon-visa1:before {
+	content: "\e602";
+}
+.icon-acta1:before {
+	content: "\e604";
+}
+.icon-curp1:before {
+	content: "\e603";
+}
+.icon-matricula1:before {
+	content: "\e605";
+}
+.icon-passport1:before {
+	content: "\e606";
+}
+

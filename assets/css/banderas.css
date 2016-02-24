@@ -1,0 +1,173 @@
+@font-face {
+	font-family: 'icomoon';
+	src:url('../fonts/banderas/icomoon.eot?m2ihno');
+	src:url('../fonts/banderas/icomoon.eot?#iefixm2ihno') format('embedded-opentype'),
+		url('../fonts/banderas/icomoon.ttf?m2ihno') format('truetype'),
+		url('../fonts/banderas/icomoon.woff?m2ihno') format('woff'),
+		url('../fonts/banderas/icomoon.svg?m2ihno#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-USA .path1:before {
+	content: "\e605";
+	color: rgb(63, 169, 245);
+}
+.icon-USA .path2:before {
+	content: "\e606";
+	margin-left: -1em;
+	color: rgb(216, 42, 83);
+}
+.icon-USA .path3:before {
+	content: "\e607";
+	margin-left: -1em;
+	color: rgb(63, 169, 245);
+}
+.icon-USA .path4:before {
+	content: "\e608";
+	margin-left: -1em;
+	color: rgb(216, 42, 83);
+}
+.icon-USA .path5:before {
+	content: "\e609";
+	margin-left: -1em;
+	color: rgb(63, 169, 245);
+}
+.icon-USA .path6:before {
+	content: "\e60a";
+	margin-left: -1em;
+	color: rgb(216, 42, 83);
+}
+.icon-USA .path7:before {
+	content: "\e60b";
+	margin-left: -1em;
+	color: rgb(216, 42, 83);
+}
+.icon-USA .path8:before {
+	content: "\e60c";
+	margin-left: -1em;
+	color: rgb(216, 42, 83);
+}
+.icon-USA .path9:before {
+	content: "\e60d";
+	margin-left: -1em;
+	color: rgb(216, 42, 83);
+}
+.icon-USA .path10:before {
+	content: "\e60e";
+	margin-left: -1em;
+	color: rgb(216, 42, 83);
+}
+.icon-USA .path11:before {
+	content: "\e60f";
+	margin-left: -1em;
+	color: rgb(255, 255, 255);
+}
+.icon-USA .path12:before {
+	content: "\e610";
+	margin-left: -1em;
+	color: rgb(255, 255, 255);
+}
+.icon-USA .path13:before {
+	content: "\e611";
+	margin-left: -1em;
+	color: rgb(255, 255, 255);
+}
+.icon-USA .path14:before {
+	content: "\e612";
+	margin-left: -1em;
+	color: rgb(255, 255, 255);
+}
+.icon-USA .path15:before {
+	content: "\e613";
+	margin-left: -1em;
+	color: rgb(255, 255, 255);
+}
+.icon-USA .path16:before {
+	content: "\e614";
+	margin-left: -1em;
+	color: rgb(255, 255, 255);
+}
+.icon-USA .path17:before {
+	content: "\e615";
+	margin-left: -1em;
+	color: rgb(255, 255, 255);
+}
+.icon-USA .path18:before {
+	content: "\e616";
+	margin-left: -1em;
+	color: rgb(255, 255, 255);
+}
+.icon-USA .path19:before {
+	content: "\e617";
+	margin-left: -1em;
+	color: rgb(255, 255, 255);
+}
+.icon-USA .path20:before {
+	content: "\e618";
+	margin-left: -1em;
+	color: rgb(255, 255, 255);
+}
+.icon-USA .path21:before {
+	content: "\e619";
+	margin-left: -1em;
+	color: rgb(255, 255, 255);
+}
+.icon-USA .path22:before {
+	content: "\e61a";
+	margin-left: -1em;
+	color: rgb(255, 255, 255);
+}
+.icon-USA .path23:before {
+	content: "\e61b";
+	margin-left: -1em;
+	color: rgb(255, 255, 255);
+}
+.icon-USA .path24:before {
+	content: "\e61c";
+	margin-left: -1em;
+	color: rgb(255, 255, 255);
+}
+.icon-USA .path25:before {
+	content: "\e61d";
+	margin-left: -1em;
+	color: rgb(255, 255, 255);
+}
+.icon-USA .path26:before {
+	content: "\e61e";
+	margin-left: -1em;
+	color: rgb(255, 255, 255);
+}
+.icon-MX .path1:before {
+	content: "\e61f";
+	color: rgb(117, 166, 103);
+}
+.icon-MX .path2:before {
+	content: "\e620";
+	margin-left: -1em;
+	color: rgb(255, 255, 255);
+}
+.icon-MX .path3:before {
+	content: "\e621";
+	margin-left: -1em;
+	color: rgb(207, 86, 100);
+}
+.icon-MX .path4:before {
+	content: "\e622";
+	margin-left: -1em;
+	color: rgb(86, 86, 86);
+}
