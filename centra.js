@@ -1,5 +1,5 @@
 window.onload = function(){
-	var link = "http://localhost:3000";
+	var link = "http://tramites.cen-tra.mx:3000";
 	var iframe = document.createElement('iframe');
 	iframe.frameBorder=0;
 	iframe.width="100%";
