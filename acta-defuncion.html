@@ -26,101 +26,7 @@
     <script src="uikit/js/html5shiv.js"></script>
     <script src="uikit/js/respond.min.js"></script>
     <![endif]-->
-    <style>
 
-.info-container{
-    position: relative;
-    width: 100%;
-    margin: 80px auto;
-    padding: 20px 40px 40px;
-    text-align: center;
-    background: #fff;
-    border: 1px solid #ccc;
-}
-
-#output{
-    position: absolute;
-    width: 300px;
-    top: -75px;
-    left: 0;
-    color: #fff;
-}
-
-#output.alert-success{
-    background: rgb(25, 204, 25);
-}
-
-#output.alert-danger{
-    background: rgb(228, 105, 105);
-}
-
-
-.info-container::before,.info-container::after{
-    content: "";
-    position: absolute;
-    width: 100%;height: 100%;
-    top: 3.5px;left: 0;
-    background: #fff;
-    z-index: -1;
-    -webkit-transform: rotateZ(4deg);
-    -moz-transform: rotateZ(4deg);
-    -ms-transform: rotateZ(4deg);
-    border: 1px solid #ccc;
-
-}
-
-.info-container::after{
-    top: 5px;
-    z-index: -2;
-    -webkit-transform: rotateZ(-2deg);
-     -moz-transform: rotateZ(-2deg);
-      -ms-transform: rotateZ(-2deg);
-
-}
-
-
-.animated {
-  -webkit-animation-duration: 1s;
-  animation-duration: 1s;
-  -webkit-animation-fill-mode: both;
-  animation-fill-mode: both;
-}
-
-@-webkit-keyframes fadeInUp {
-  0% {
-    opacity: 0;
-    -webkit-transform: translateY(20px);
-    transform: translateY(20px);
-  }
-
-  100% {
-    opacity: 1;
-    -webkit-transform: translateY(0);
-    transform: translateY(0);
-  }
-}
-
-@keyframes fadeInUp {
-  0% {
-    opacity: 0;
-    -webkit-transform: translateY(20px);
-    -ms-transform: translateY(20px);
-    transform: translateY(20px);
-  }
-
-  100% {
-    opacity: 1;
-    -webkit-transform: translateY(0);
-    -ms-transform: translateY(0);
-    transform: translateY(0);
-  }
-}
-
-.fadeInUp {
-  -webkit-animation-name: fadeInUp;
-  animation-name: fadeInUp;
-}
-    </style>
   </head>
 
   <body class="cover-2-bg preload">
@@ -242,8 +148,9 @@
 
                     <div class="info-container">
                       <div id="output"></div>    
+                      <div class="padding5px">
                       <h2>SOLICITUD DE ACTA DE DEFUNCIÓN</h2>
-                    <p>
+                      
                       <h3>Registro Civil</h3>
                       <p class="text-justify">
 En México, el registro Civil es una entidad admistrativa o sercicio público a cargo de los registros o acontecimientos relacionados con los estados Civiles de las personas y leyes relacionadas.<br>
@@ -261,7 +168,9 @@ Los registros del estado civil se procesan en el Archivo Central de cada estado.
 Es importante tener en cuenta que no se puede procesar copias certificadas si la persona no está registrado.<br>
                       </p>
                     </p>
-                                        <p><a href="./tramites.html">Solicitar tramite</a></p>  
+                    <br><br><br>
+                                        <p><a href="./tramites.html" class="btn btn-default">Solicitar tramite</a></p>  
+                                        </div>
                     </div> 
                 </div>
                <!-- <div class="col-md-4">
