@@ -3880,7 +3880,7 @@ ul.tags {
   width: 100%; }
 .bx-wrapper .bx-controls-direction a {
   font-family: 'themify';
-  font-size: 75px;
+  font-size: 40px;
   text-align: center;
   width: 35px;
   height: 35px;
@@ -3893,12 +3893,12 @@ ul.tags {
   margin: auto 0;
   z-index: 400; }
   .bx-wrapper .bx-controls-direction a.bx-next {
-    left: 20px; }
+    left: 0%; }
     .bx-wrapper .bx-controls-direction a.bx-next:after {
       font-family: "themify";
       content: '\e64a'; }
   .bx-wrapper .bx-controls-direction a.bx-prev {
-    right: 20px; }
+    right: 0%; }
     .bx-wrapper .bx-controls-direction a.bx-prev:after {
       font-family: "themify";
       content: '\e649'; }
@@ -4030,7 +4030,9 @@ ul.tags {
       height: 12px;
       background: rgba(255, 255, 255, 0.5); }
       .bx-pager .bx-pager-item a.active, .bx-pager .bx-pager-item a:hover {
-        background: #fff; }
+        background: #B15883; 
+
+      }
 
 .bx-pager-above-right .bx-wrapper .bx-pager,
 .bx-pager-top-right .bx-wrapper .bx-pager,
@@ -4076,7 +4078,8 @@ ul.tags {
 .bx-pager-dark .bx-pager .bx-pager-item a {
   background: rgba(0, 0, 0, 0.1); }
   .bx-pager-dark .bx-pager .bx-pager-item a.active, .bx-pager-dark .bx-pager .bx-pager-item a:hover {
-    background: #218C8D; }
+    background: #218C8D; 
+  }
 
 .bx-pager-round .bx-pager .bx-pager-item a {
   border-radius: 50%; }
